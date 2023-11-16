@@ -5,8 +5,8 @@ image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: 대회 이름 3
+  subtitle: 대회 설명 3
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
 ---
 

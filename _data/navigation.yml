@@ -11,20 +11,17 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "개요"
       section: services
-    - title: "Portfolio"
+    - title: "대회"
       section: portfolio
-    - title: "About"
+    - title: "TEAM KDA"
       section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Team"
+    - title: "관리자"
       section: team
-    - title: "Contact"
+    - title: "문의하기"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:

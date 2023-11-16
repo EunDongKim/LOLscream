@@ -8,9 +8,9 @@ background: grey
 	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+Privacy Policy는 {{ site.title }} (“Site”)를 방문할 때, 개인 정보가 어떻게 수집, 사용, 공유되는지를 기재합니다.
 
-**PERSONAL INFORMATION WE COLLECT**
+**수집하는 개인정보**
 
 {% if site.analytics.google %}
 
@@ -26,14 +26,14 @@ You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaopt
 
 {% else %}
 
-We do not collect any data about you or use any cookies.
+Site는 귀하에 관한 데이터를 수집하지 않으며 쿠키를 사용하지 않습니다.
 
 {% endif %}
 
-**CHANGES**
+**변경 사항**
 
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
+Site는 개인적, 운영적, 법적 또는 규제상의 이유로 수시로 본 개인정보 보호정책을 업데이트할 수 있습니다.
 
-**CONTACT US**
+**문의**
 
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Site의 개인정보 보호 관행에 대한 자세한 내용을 알고 싶거나 궁금한 사항이 있는 경우 <a href="mailto:{{ site.email }}">{{ site.email }}</a>으로 이메일을 보내 문의해 주세요 .
